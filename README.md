@@ -20,6 +20,8 @@ The module consists of 5 different deliveries that build up to a complete pipeli
 
 * [Week 4: Reconstruction from Two Images](https://github.com/IanRiera/MCV-M4-3D-Vision/tree/master/reconstruction_from_two_images)
 
+* [Week 5: Structure from Motion](https://github.com/IanRiera/MCV-M4-3D-Vision/tree/master/structure_from_motion)
+
 
 
 ## Contributors: Team 7
