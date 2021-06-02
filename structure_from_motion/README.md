@@ -1,6 +1,6 @@
 # Week 5
 
-### [Report](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/blob/main/lab5/M4_Lab5_Team7.pdf)
+### [Report](https://github.com/IanRiera/MCV-M4-3D-Vision/blob/master/structure_from_motion/M4_Lab5_Team7.pdf)
 
 In this project, we apply scene 3D reconstruction from non-calibrated images with a stratified method (recovery of camera matrices and a sparse set of 3D points), by applying the Structure from Motion (SfM) approach on real data. Specifically, we begin with a projective reconstruction and then refine it progressively to an affine and finally a metric reconstruction. We also implemented the resection method, which estimates a camera matrix P from a set of 2D-3D point correspondences by using the DLT algorithm.
 
